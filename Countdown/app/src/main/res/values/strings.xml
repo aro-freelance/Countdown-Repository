@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Arora Countdown</string>
+
+    <string name="countdowntitlehint">What are you counting down towards?</string>
+    <string name="confirmdate_button">Confirm</string>
+    <string name="delete_button_string">Delete</string>
+    <string name="channel_name">Arora_Countdown_Channel_Name</string>
+    <string name="channel_description">Notification channel for Arora Countdown</string>
+    <string name="notification_string">Notify on Completion</string>
+    <string name="update">Update</string>
+    <string name="add_countdown_content_descrip">Button to add a new countdown</string>
+    <string name="title">Title</string>
+    <string name="notification_content_descrip">Bell</string>
+    <string name="placeholder_time">3 Days 10 Hours 22 Minutes</string>
+
+
+</resources>
